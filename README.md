@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+  Ongoing Projects:  
+  - Safe-Folder (Python, SQL, regex)
+  - Plandline (paused)
+  My Top Projects:
+  - Still undertermined :C
 <!--
 **WMFong0/WMFong0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
