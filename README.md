@@ -1,7 +1,7 @@
 ## Hi there 👋
 - Ongoing Projects:  
   - Safe-Folder (Python, SQL, regex)
-  - Plandline (paused)
+  - Plandline (paused, Front end)
 - My Top Projects:
   - Still undertermined :C
 <!--
