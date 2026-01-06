@@ -1,6 +1,6 @@
 ## Hi there 👋
 - Ongoing Projects:  
-  - Safe-Folder (Python, SQL, regex)
+  - Safe-Folder (Python, SQL, regex, Project Cancelled :C)
   - Plandline (paused, Front end, Backend(On trial))
 - My Top Projects:
   - Still undertermined :C
