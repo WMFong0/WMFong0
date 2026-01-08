@@ -2,7 +2,7 @@
 - Ongoing Projects:  
   - Safe-Folder (Python, SQL, regex, Project Cancelled :C)
   - Plandline (paused, Front end, Backend(On trial))
-- My Top Projects:
+- My Current First Priority Projects:
   - Still undertermined :C
 <!--
 **WMFong0/WMFong0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
